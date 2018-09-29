@@ -1,4 +1,4 @@
-while (true) do
+function changes()
     
     print('Change Logs: \n\n
           Version _1.0_: \n 
