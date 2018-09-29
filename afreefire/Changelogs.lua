@@ -1,6 +1,4 @@
 while (true) do
-	if gg.isVisible(true) then
-		gg.setVisible(false)
     
     print('Change Logs: \n\n
           Version _1.0_: \n 
@@ -8,5 +6,4 @@ while (true) do
           ● 3D Flat Vehicle \n 
           ● Sky Contrast \n 
           ● Thermal Maps')
-  end
 end
