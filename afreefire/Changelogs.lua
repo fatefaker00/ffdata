@@ -1,4 +1,6 @@
-  print('Change Logs: \n\n
+gg.setVisible(ShowUI)
+gg.clearResults()
+gg.alert('Change Logs: \n\n
           Version _1.0_: \n 
           ● Avatar Contrast \n 
           ● 3D Flat Vehicle \n 
